@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zigavedad
+- 👋 Hi, I’m Vedad Žiga, student at JU "Treća gimnazija" Sarajevo
 - 👀 I’m interested in web design and web development
 - 🌱 I’m currently learning html, css, js 
 - 📫 You can reach me on my link in bio
